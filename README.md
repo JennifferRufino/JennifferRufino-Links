@@ -5,4 +5,4 @@
 </hr>
 <img src="./assets/image/links-Jenniffer.gif"/>
 <a href="https://jenniffer-links.netlify.app/" align="center"> Clique aqui para visitar o site/projeto</a>
-<h6> @jenniffer_rufino </6>
+<h6 align="center"> @jenniffer_rufino </6>
