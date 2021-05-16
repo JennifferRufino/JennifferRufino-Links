@@ -4,5 +4,5 @@
 <h4 align="center">Meus links importantes</h4>
 </hr>
 <img src="./assets/image/links-Jenniffer.gif"/>
-<a align="center" href="https://jenniffer-links.netlify.app/"> Clique aqui para visitar o site/projeto</a>
+<a text-align="center" href="https://jenniffer-links.netlify.app/"> Clique aqui para visitar o site/projeto</a>
 <h6 align="center"> @jenniffer_rufino </6>
